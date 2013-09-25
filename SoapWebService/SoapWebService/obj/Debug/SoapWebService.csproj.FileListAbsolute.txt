@@ -1,0 +1,5 @@
+c:\users\shiva\documents\visual studio 2012\Projects\SoapWebService\SoapWebService\bin\SoapWebService.dll
+c:\users\shiva\documents\visual studio 2012\Projects\SoapWebService\SoapWebService\bin\SoapWebService.pdb
+c:\users\shiva\documents\visual studio 2012\Projects\SoapWebService\SoapWebService\obj\Debug\SoapWebService.csprojResolveAssemblyReference.cache
+c:\users\shiva\documents\visual studio 2012\Projects\SoapWebService\SoapWebService\obj\Debug\SoapWebService.dll
+c:\users\shiva\documents\visual studio 2012\Projects\SoapWebService\SoapWebService\obj\Debug\SoapWebService.pdb

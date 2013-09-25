@@ -1,0 +1,5 @@
+c:\users\shiva\documents\visual studio 2012\Projects\RestService\RestService\bin\RestService.dll
+c:\users\shiva\documents\visual studio 2012\Projects\RestService\RestService\bin\RestService.pdb
+c:\users\shiva\documents\visual studio 2012\Projects\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+c:\users\shiva\documents\visual studio 2012\Projects\RestService\RestService\obj\Debug\RestService.dll
+c:\users\shiva\documents\visual studio 2012\Projects\RestService\RestService\obj\Debug\RestService.pdb
